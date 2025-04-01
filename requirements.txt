@@ -1,0 +1,11 @@
+# python -m venv .venv --system-site-packages
+# pip install -r requirements.txt
+ipykernel
+h5py
+jupyter
+numpy
+scipy
+pandas
+astropy
+matplotlib
+seaborn
